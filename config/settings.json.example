@@ -1,14 +1,14 @@
 {
   "token": "",
-  "prefix": "!",
-  "owner_id": "",
-  "presence_type": "PLAYING",
+  "prefix": "<<",
+  "owner_id": "鐵柱哥#3203",
+  "presence_type": "LISTENING",
   "channel_id": "",
   "shuffle": true,
   "pause_on_empty": true,
   "owner_reporting": false,
   "soundcloud_client_id": "",
-  "youtube_cookie": "",
+  "youtube_cookie": "__Secure-3PSIDCC=AJi4QfEAEOf0cNESAzz8D8u9FlQUWT_acgeVf6MK2ylDvvrnfyBr4gTkjQYtUr_bUQDHC6dqIZ2f; expires=Mon, 15-May-2023 05:59:19 GMT; path=/; domain=.youtube.com; Secure; HttpOnly; priority=high; SameSite=none",
   "playing_status": "{status_icon} {song_name}",
   "intermission_interval": null
 }
